@@ -35,7 +35,7 @@ function App() {
   };
 
   return (
-    <div className="w-120 min-h-auto flex justify-content-center items-center">
+    <div className="w-full min-h-auto">
       <h1 className="font-bold  text-2xl text-center ">
         Formulario de Contacto
       </h1>
